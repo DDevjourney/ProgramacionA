@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\EstructucrasSRS\EstructucrasSRS\obj\Debug\EstructucrasSRS.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EstructucrasSRS\EstructucrasSRS\obj\Debug\EstructucrasSRS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EstructucrasSRS\EstructucrasSRS\bin\Debug\EstructucrasSRS.exe.config
+C:\Users\user\source\repos\EstructucrasSRS\EstructucrasSRS\bin\Debug\EstructucrasSRS.exe
+C:\Users\user\source\repos\EstructucrasSRS\EstructucrasSRS\bin\Debug\EstructucrasSRS.pdb
+C:\Users\user\source\repos\EstructucrasSRS\EstructucrasSRS\obj\Debug\EstructucrasSRS.exe
+C:\Users\user\source\repos\EstructucrasSRS\EstructucrasSRS\obj\Debug\EstructucrasSRS.pdb

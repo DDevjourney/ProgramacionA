@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\EstructurasArrays\EstructurasArrays\bin\Debug\EstructurasArrays.exe.config
+C:\Users\user\source\repos\EstructurasArrays\EstructurasArrays\bin\Debug\EstructurasArrays.exe
+C:\Users\user\source\repos\EstructurasArrays\EstructurasArrays\bin\Debug\EstructurasArrays.pdb
+C:\Users\user\source\repos\EstructurasArrays\EstructurasArrays\obj\Debug\EstructurasArrays.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EstructurasArrays\EstructurasArrays\obj\Debug\EstructurasArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EstructurasArrays\EstructurasArrays\obj\Debug\EstructurasArrays.exe
+C:\Users\user\source\repos\EstructurasArrays\EstructurasArrays\obj\Debug\EstructurasArrays.pdb
